@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="NEXSTEP">
+  <rect width="512" height="512" rx="72" fill="#071c1a"/>
+  <path d="M0 368h512v144H0z" fill="#d6ff3f"/>
+  <path d="M72 70h368v8H72zm0 90h8v136h-8zm360 0h8v136h-8z" fill="#29423d"/>
+  <circle cx="76" cy="226" r="18" fill="#d6ff3f"/>
+  <circle cx="436" cy="226" r="18" fill="#63d9ff"/>
+  <text x="66" y="315" fill="#f1eee7" font-family="Arial, sans-serif" font-size="126" font-weight="800">N/S</text>
+  <text x="72" y="444" fill="#0a1614" font-family="monospace" font-size="40" font-weight="700">FIELD 01</text>
+</svg>
