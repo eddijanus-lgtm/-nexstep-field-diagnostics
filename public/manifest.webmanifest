@@ -1,0 +1,26 @@
+{
+  "name": "NEXSTEP — Mobile IT Diagnostics",
+  "short_name": "NEXSTEP",
+  "description": "Geführte IT-Fehlerdiagnose für Azubis und Junior-Admins.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071c1a",
+  "theme_color": "#071c1a",
+  "lang": "de",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
